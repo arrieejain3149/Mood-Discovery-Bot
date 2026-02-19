@@ -1,0 +1,4 @@
+wikipediaapi
+pyttsx3
+textblob
+rich
